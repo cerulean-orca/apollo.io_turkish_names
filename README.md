@@ -1,5 +1,5 @@
 For any users of Apollo.io doing outbound in the Turkish B2B field - an issue that slows them down is the broken name format for contact names. 
-For example, a common Turkish name "Görkem" is written as "Goerken", or "Aslı" as "Asli"
+For example, a common Turkish name "Görkem" is written as "Goerkem", or "Aslı" as "Asli"
 Also, the need to add the Mr. or Mrs. to each name manually. You must create a manual field called "Hitap", so you can add dynamic updating in sequences.
 
 I've written a Google Apps Script, so you can export contacts and prepare them and import them back into your sequences.
